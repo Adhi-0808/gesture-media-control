@@ -13,6 +13,9 @@ Fullscreen
 Audio & Subtitle switching
 It provides a touchless human-computer interaction system optimized for Linux media players.
 
+video demo link:
+https://drive.google.com/file/d/1ZpYDixzAgNZ4VRF0OS7tAIKCGaJ2tYLD/view?usp=sharing
+
 Core Concept
 The system uses:
 MediaPipe Hands for real-time hand landmark detection
